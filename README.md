@@ -1,4 +1,5 @@
-# vid-vue
+# YouYube Search
+Visit the live app: https://vue-youtube-search-61219.herokuapp.com/
 
 ## Project setup
 ```
